@@ -274,6 +274,7 @@ function App() {
       <div className='text-center'>
         <div className='text-5xl font-extrabold pt-5 font-sans mb-5 bg-gradient-to-t from-sky-400 to-gray-200 bg-clip-text text-transparent'>
           Invoice Generator
+          <span className="text-lg font-bold text-white mb-12"> → code by Kajal paliwal</span>
         </div>
         <img src="src/assets/invoice.gif" alt="gif" className='mx-auto ' />
         <p className='text-3xl font-extrabold pt-5 bg-gradient-to-t from-sky-400 to-gray-200 bg-clip-text text-transparent'>
